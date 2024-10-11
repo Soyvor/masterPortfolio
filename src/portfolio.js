@@ -511,7 +511,7 @@ const experience = {
           duration: "June 2020 - Aug 2021",
           location: "Hyderabad, Telangana",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "At Indian Foods Company, I gained insights into product execution and collaborated with sales and web teams to enhance production value. Utilizing data science and predictive data exploration, I optimized targeted customer ads, contributing to strategic growth initiatives.",
           color: "#0879bf",
         },
       ],
