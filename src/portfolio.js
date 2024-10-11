@@ -527,7 +527,7 @@ const experience = {
           duration: "June 2024 - Oct 2024",
           location: "Pune, Maharashtra",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "I have developed an AI-based chatbot for the Flipkart platform as part of the Flipkart Grid 6.0 Project Development Program 2024. It utilizes data science, Gemini API, and alternate API solutions to ensure website stability, enhancing customer support and improving user experience.",
           color: "#9b1578",
         },
         {
@@ -538,7 +538,7 @@ const experience = {
           duration: "June 2022 - September 2023",
           location: "Pune, Maharashtra",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "I have developed a comprehensive Full Stack Application that allows students to review and evaluate professors' performance, report student issues, and raise concerns about ragging incidents within the college, fostering a safer and more transparent campus environment while promoting accountability and continuous improvement among faculty members.",
           color: "#9b1578",
         },
         {
@@ -549,7 +549,7 @@ const experience = {
           duration: "June 2022 - September 2022",
           location: "Bangalore,2022",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "I improved the UI of the Full Stack website by utilizing Figma and Adobe XD for design purposes. I created updated components with a lighter deployment footprint, ensuring better performance, and incorporated 3D components to enhance visual appeal and user interaction.",
           color: "#000000",
         },
         {
@@ -560,7 +560,7 @@ const experience = {
           duration: "June 2020 - Aug 2021",
           location: "Hyderabad, Telangana",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            " At Furnestry, I contributed to the development of the website, focusing on product layouts and ensuring the complete functionality of web processes. My role involved overseeing the entire workflow, from designing user-friendly interfaces to optimizing the extensive workings of the website for smooth and efficient performance.",
           color: "#0879bf",
         },
       ],
@@ -576,7 +576,7 @@ const experience = {
           duration: "June 2024 - Sept 2024",
           location: "Pune, Maharashtra",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            " I was part of the Google Cloud Community Crew, where we organized Google Cloud sessions. In these sessions, Google developers shared insights on how technology functions at Google and how we can effectively adapt and implement these tools, all provided free of cost to the participants.",
           color: "#4285F4",
         },
         {
@@ -587,7 +587,7 @@ const experience = {
           duration: "June 2023 - Sept 2023",
           location: "Pune, Maharashtra",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+            "As a Microsoft Student Partner, I participated in organizing sessions where Microsoft professionals provided training on various Microsoft technologies. These sessions offered insights into how Microsoft's tools and platforms work, helping students learn how to effectively use and adapt these technologies, all free of cost.",
           color: "#D83B01",
         },
         {
@@ -603,27 +603,27 @@ const experience = {
           color: "#0C9D58",
         },
         {
-          title: "Developer Students Club Lead",
-          company: "DSC SIT",
+          title: "Google summer of code Contestant",
+          company: "Google",
           company_url:
             "https://www.linkedin.com/company/gdsc-sit-pune/posts/?feedView=all",
           logo_path: "GSOC.png",
-          duration: "Jan 2022 - Present",
+          duration: "May 2022 - Sept 2022",
           location: "Kurnool, Andhra Pradesh",
           description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+            "I applied for GSoC with GNOME but didn’t officially get selected. However, I have continued contributing to the GNOME project since then, actively participating in open-source development, improving features, and collaborating with the community to enhance the overall user experience. This ongoing involvement has allowed me to grow as a developer and make meaningful contributions to the project.",
           color: "#0C9D58",
         },
         {
-          title: "Developer Students Club Lead",
-          company: "DSC SIT",
+          title: "Girl Script Summer of Code Contributor 2024",
+          company: "MLH",
           company_url:
             "https://www.linkedin.com/company/gdsc-sit-pune/posts/?feedView=all",
           logo_path: "gssoc.jpg",
-          duration: "Jan 2022 - Present",
-          location: "Kurnool, Andhra Pradesh",
+          duration: "Sept 2024 - Present",
+          location: "Bangalore , Karnataka",
           description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+            "I participated in the GirlScript Summer of Code (GSSOC), where I contributed to various open-source projects. Throughout the program, I collaborated with mentors and fellow participants, focusing on developing new features, fixing bugs, and enhancing documentation. I am currently still contributing to GSSOC, further honing my skills and actively engaging with the community to support ongoing projects and initiatives.",
           color: "#0C9D58",
         },
         {
@@ -631,10 +631,10 @@ const experience = {
           company: "HacktoberFest",
           company_url: "https://github.com/",
           logo_path: "HACK.png",
-          duration: "July 2019 - PRESENT",
+          duration: "October 23 - PRESENT",
           location: "Work From Home",
           description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+            "I participated in Hacktoberfest, contributing to various projects, including Python libraries, the joejames Python pip project, and Java algorithms for Oracle. I also submitted full-stack pull requests, focusing on optimizing performance and enhancing user experience, all while engaging with the open-source community.",
           color: "#181717",
         },
         {
@@ -705,19 +705,19 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://dev.to/soyvor",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
+    subtitle: "Symbiosis Institute of Technology , Pune",
     locality: "San Jose",
     country: "USA",
     region: "California",
     postalCode: "95129",
     streetAddress: "Saratoga Avenue",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/1ftjtVemSEn4UWsX7",
   },
   phoneSection: {
     title: "",
